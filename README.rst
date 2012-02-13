@@ -31,4 +31,5 @@ Credits
 
 * stdint.h
   Copyright (c) 2005-2011 Paul Hsieh
+  http://www.azillionmonkeys.com/qed/index.html
   
