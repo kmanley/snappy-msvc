@@ -12,9 +12,10 @@ Usage
 * Download snappy from http://code.google.com/p/snappy and extract to <snappy_dir>
 * cd snappy_dir
 * git clone https://github.com/kmanley/snappy-msvc
+* cd snappy-msvc
 * Open snappy.sln
 * Choose Build/Rebuild Solution
-* The static lib will end up in <snappy_dir>/snappy-msvc/Debug or Release
+* The static lib will end up in <snappy_dir>/snappy-msvc/Debug (or Release)
 
 Licenses
 =============
